@@ -1,0 +1,1672 @@
+
+
+//2 year students
+
+#auditory 
+	1
+	400
+	0
+
+#auditory 
+	3302
+	80
+	0
+
+#auditory 
+	3223
+	60
+	0
+
+#auditory 
+	6522
+	48
+	1
+
+#auditory 
+	3221
+	53
+	0
+
+#auditory 
+	6407
+	20
+	1
+
+#auditory 
+	3220
+	95
+	0
+
+#auditory
+	6422
+	48
+	1
+
+#auditory
+	6427
+	40
+	1
+
+#auditory
+	3303
+	40
+	0
+
+#auditory
+	6307
+	28
+	1
+
+#auditory
+	6408
+	30
+	1
+
+#auditory
+	6112
+	33
+	1
+	
+#auditory
+	3224
+	95	
+	0
+
+#auditory
+	3309
+	40
+	0
+
+#auditory
+	3317
+	40
+	0
+
+#auditory
+	3143
+	30
+	1
+
+#auditory
+	3316
+	40	
+	0
+
+#auditory
+	3227
+	30
+	1
+
+#auditory
+	3217
+	28
+	1
+
+#auditory
+	6154
+	40
+	1
+
+#auditory
+	3317
+	40
+	0
+
+#auditory
+	6408
+	30
+	1
+
+#auditory
+	7322
+	25
+	1
+
+#auditory
+	3132
+	24
+	1
+
+#auditory
+	6327
+	24
+	1
+
+//Mechanical Engineers
+#group
+	6
+	22
+
+#group
+	7
+	18
+//Chemical Engineers
+#group
+	8
+	27
+// Electrical Engineers 
+#group
+	9
+	32
+	
+#group
+	10
+	31
+//Civil Engineers
+#group
+	11
+	30
+
+#group
+	12	
+	30
+
+#course 
+	 6 
+	 MDynamics1
+
+#staff
+	 6
+	 DrXydas
+
+#course 
+	 7 
+	 CAM
+
+#staff
+	 7
+	 DrAbdildin
+
+#course 
+	 8 
+	 Math3
+
+#staff
+	 8
+	 DrAdair
+
+#course 
+	 9 
+	 Sensors
+
+#staff
+	 9
+	 DrMirNaziri
+
+#course 
+	 10 
+	 MoMaterials
+
+#staff
+	 10
+	 DrKhairali
+
+#course 
+	 11 
+	 MicroEaC
+
+#staff
+	 11
+	 DrJames
+
+#course 
+	 12 
+	 SignalaS
+
+#staff
+	 12
+	 DrMaham
+
+#course 
+	 13 
+	 EEDesignP
+
+#staff
+	 13
+	 DrSmagulova
+
+#course 
+	 14 
+	 StrAnalys
+
+#staff
+	 14
+	 DrMemon
+
+#course 
+	 15 
+	 CEMaterials
+
+#staff
+	 15
+	 DrShon
+
+#course 
+	 16
+	 EESurvey
+
+#course 
+	 17
+	 CivEngCAD
+
+#staff
+	 17
+	 DrTulebekova
+
+#course
+	18
+	ChEngTherm
+
+#staff
+	18
+	DrShah
+
+#course
+	19
+	IntroChEn
+
+#staff
+	19
+	DrBabaa
+
+#course
+	20
+	Chemis
+
+#staff
+	20
+	DrBakenov
+
+#class
+	31
+	0
+	2
+	6
+	6
+	3221
+	6
+	7
+
+#class
+	32
+	0
+	2
+	6
+	6
+	3221
+	6
+	7
+
+#class
+	33
+	1
+	2
+	6
+	6
+	6407
+	6
+
+#class
+	34
+	1
+	2
+	6
+	6
+	6407
+	7
+
+#class
+	35
+	0
+	2
+	7
+	7
+	6522
+	6
+	7
+
+#class
+	36
+	1
+	2
+	7
+	7
+	6522
+	6
+	7
+
+#class
+	37
+	0
+	2
+	9
+	9
+	3220
+	6
+	7
+	9
+	10
+
+#class
+	38
+	0
+	2
+	9
+	9
+	3220
+	6
+	7
+
+#class
+	39
+	0
+	2
+	9
+	9
+	3221
+	9
+	10
+
+
+#class
+	40
+	1
+	2
+	9
+	9
+	6427
+	6
+
+#class
+	41
+	1
+	2
+	9
+	9
+	6427
+	7
+
+#class
+	42
+	1
+	2
+	9
+	9
+	6427
+	9
+
+#class
+	43
+	1
+	2
+	9
+	9
+	6427
+	10
+
+#class
+	44
+	0
+	2
+	10
+	10
+	3303
+	6
+	7
+	8
+
+#class
+	45
+	0
+	2
+	10
+	10
+	3303
+	8
+
+#class
+	46
+	0
+	2
+	10
+	10
+	3221
+	6
+	7
+
+#class
+	47
+	1
+	2
+	10
+	10
+	6307
+	6
+
+#class
+	48
+	1
+	2
+	10
+	10
+	6307
+	7
+
+#class
+	49
+	1
+	2
+	10
+	10
+	6307
+	8
+
+#class
+	50
+	0
+	2
+	11
+	11
+	3302
+	9
+	10
+
+#class
+	51
+	0
+	2
+	11
+	11
+	3220
+	9
+	10
+
+#class
+	52
+	1
+	2
+	11
+	11
+	6427
+	9
+	
+#class
+	53
+	1
+	2
+	11
+	11
+	6427
+	10
+
+#class
+	54
+	0
+	2
+	12
+	12
+	3302
+	9
+	10
+
+#class
+	55
+	0
+	2
+	12
+	12
+	3302
+	9
+	10
+
+#class
+	56
+	1
+	2
+	12
+	12
+	6422
+	9
+	
+#class
+	57
+	1
+	2
+	12
+	12
+	6422
+	10
+	
+#class
+	58
+	0
+	2
+	13
+	13
+	3220
+	9
+	10
+
+#class
+	59
+	1
+	2
+	13
+	13
+	6408
+	10
+
+#class
+	60
+	1
+	2
+	13
+	13
+	6408
+	9
+
+#class
+	61
+	0
+	2
+	14
+	14
+	3302
+	11
+	12
+
+#class
+	62
+	0
+	2
+	14
+	14
+	3223
+	11
+	12
+
+#class
+	63
+	1
+	2
+	14
+	14
+	6522
+	11
+	
+#class
+	64
+	1
+	2
+	14
+	14
+	6522
+	12
+
+#class
+	65
+	0	
+	2
+	15
+	15
+	3224
+	11
+	12
+
+#class
+	66
+	0	
+	2
+	15
+	15
+	3223
+	11
+	12
+
+#class
+	67
+	1	
+	2
+	15
+	15
+	6112
+	11
+	
+#class
+	68
+	1	
+	2
+	15
+	15
+	6112
+	12
+
+#class
+	69
+	0	
+	2
+	14
+	16
+	3223
+	11
+	12
+
+#class
+	70
+	0	
+	2
+	14
+	16
+	3223
+	11
+	12
+
+#class
+	71
+	0	
+	2
+	14
+	16
+	3223
+	11
+	12
+
+#class
+	72
+	1	
+	2
+	14
+	16
+	6522
+	11
+	
+#class
+	73
+	1	
+	2
+	14
+	16
+	6522
+	12
+
+#class
+	74
+	0	
+	2
+	17
+	17
+	3302
+	11
+	12
+
+#class
+	75
+	0	
+	2
+	17
+	17
+	3223
+	11
+	12
+
+#class
+	76
+	1	
+	2
+	17
+	17
+	6422
+	11
+	
+#class
+	77
+	1	
+	2
+	17
+	17
+	6422
+	12
+	
+#class
+	78
+	0
+	2
+	18
+	18
+	3309
+	8
+
+#class
+	79
+	0
+	2
+	18
+	18
+	3317
+	8
+
+#class
+	80
+	0
+	2
+	19
+	19
+	3309
+	8
+
+#class
+	81
+	0
+	2
+	19
+	19
+	3303
+	8
+
+#class
+	82
+	0
+	2
+	20
+	20
+	3316
+	8
+
+#class
+	83
+	0
+	2
+	20
+	20
+	3309
+	8
+
+#class
+	84
+	0
+	4
+	20
+	20
+	3143
+	8
+//Finally we reached mathematics classes
+#class
+	85
+	0
+	2
+	8
+	8
+	3220
+	8
+	11
+	12
+
+#class
+	86
+	0
+	2
+	8
+	8
+	3220
+	6
+	7
+	9
+	10
+
+#class
+	87
+	1
+	2
+	8
+	8
+	6422
+	6
+	7
+
+#class
+	88
+	1
+	2
+	8
+	8
+	6422
+	8
+
+#class
+	89
+	1
+	2
+	8
+	8
+	6422
+	9
+
+#class
+	90
+	1
+	2
+	8
+	8
+	6422
+	10
+
+#class
+	91
+	1
+	2
+	8
+	8
+	6422
+	11
+
+#class
+	92
+	1
+	2
+	8
+	8
+	6422
+	12
+ 
+
+
+
+
+
+//3 year students 
+
+//Civil Engineers
+
+#group
+	13
+	27
+	
+#group
+	14
+	30
+
+//Chemical ENgineers 
+
+#group
+	15
+	14
+
+//Electrical engineers
+
+#group 
+	16
+	16
+
+#group
+	17
+	17
+
+#group
+	18
+	17
+
+//Mechanical Engineers
+
+#group
+	19
+	17
+
+#group
+	20
+	20
+
+#course 
+	 21 
+	 StrDesign
+
+#staff
+	 21
+	 DrZhang
+
+#course 
+	 22
+	 EnvEngin
+
+#staff
+	 22
+	 DrKaskina
+
+#course 
+	 23
+	 EngGeoRM
+
+#staff
+	 23
+	 DrNguyen
+
+#course 
+	 24
+	 ConstTech
+
+#staff
+	 24
+	 DrLeung
+
+#course 
+	 25
+	 TransPh2
+
+#staff
+	 25
+	 DrSaliyeva
+
+#course 
+	 26
+	 SepProc1
+
+#staff
+	 26
+	 DrInglezakis
+
+#course 
+	 27
+	 ResearPr
+
+#staff
+	 27
+	 DrRuales
+
+#course 
+	 28
+	 ChReaEng
+
+#staff
+	 28
+	 DrKalimuldina
+
+#course 
+	 29
+	 ElectMag
+
+#staff
+	 29
+	 DrTosi
+
+#course 
+	30
+	DigCirBeg
+
+#course 
+	 31
+	 SaIProces
+
+#staff
+	 31
+	 DrAkhtar
+
+#course 
+	 32
+	 PowElectr
+
+#staff
+	 32
+	 DrRuderman
+
+#course 
+	 33
+	 MachDesig
+
+#staff
+	 33
+	 DrSpitas
+
+#course 
+	 34
+	 MachDyn2
+
+#staff
+	 34
+	 DrTalamona
+
+#course 
+	 35
+	 HeatTrans
+
+#staff
+	 35
+	 DrLu
+
+#course 
+	 36
+	 AdvContrS
+
+#staff
+	 36
+	 DrAli
+
+
+#course 
+	 37
+	 ProjManag
+
+#staff
+	 37
+	 DrTokbolat
+
+#class
+	93
+	0
+	2
+	21
+	21
+	3223
+	13
+	14
+
+#class
+	94
+	0
+	2
+	21
+	21
+	3220
+	13
+	14
+
+#class
+	95
+	0
+	2
+	21
+	21
+	3223
+	13
+	14
+
+#class
+	96
+	1
+	2
+	21
+	21
+	3227
+	13
+	
+#class
+	97
+	1
+	2
+	21
+	21
+	3227
+	14
+
+#class
+	98
+	0
+	2
+	22
+	22
+	3302
+	13
+	14
+
+#class
+	99
+	0
+	2
+	22
+	22
+	3220
+	13
+	14
+
+#class
+	100
+	0
+	2
+	23
+	23
+	3220
+	13
+	14
+
+#class
+	101
+	0
+	2
+	23
+	23
+	3223
+	13
+	14
+
+#class
+	102
+	1
+	2
+	23
+	23
+	6112
+	13
+	14
+
+#class
+	103
+	0
+	2
+	24
+	24
+	3220
+	13
+	14
+
+#class
+	104
+	0
+	2
+	24
+	24
+	3302
+	13
+	14
+
+#class
+	105
+	0
+	2
+	25
+	25
+	3309
+	15
+
+#class
+	106
+	0
+	2
+	25
+	25
+	3309
+	15
+
+#class
+	107
+	1
+	2
+	25
+	25
+	3217
+	15
+
+#class
+	108
+	0
+	2
+	26
+	26
+	3309
+	15
+
+#class
+	109
+	0
+	2
+	26
+	26
+	3317
+	15
+
+#class
+	110
+	1
+	4
+	26
+	26
+	6154
+	15
+
+#class
+	111
+	1
+	2
+	26
+	26
+	3217
+	15
+
+#class
+	112
+	0
+	2
+	27
+	27
+	3309
+	15
+
+#class
+	113
+	0
+	2
+	27
+	27
+	3309
+	15
+
+#class
+	114
+	0
+	2
+	28
+	28
+	3309
+	15
+
+#class
+	115
+	0
+	2
+	28
+	28
+	3309
+	15
+
+#class
+	116
+	1
+	2
+	28
+	28
+	6154
+	15
+
+#class
+	117
+	1
+	2
+	28
+	28
+	3217
+	15
+
+#class 
+	118
+	0
+	2
+	29
+	29
+	3224
+	16
+	17
+	18
+
+#class 
+	119
+	0
+	2
+	29
+	29
+	3223
+	16
+	17
+	18
+
+#class 
+	120
+	1
+	2
+	29
+	29
+	6408
+	16
+
+#class 
+	121
+	1
+	2
+	29
+	29
+	6408
+	17
+
+#class 
+	122
+	1
+	2
+	29
+	29
+	6408
+	18
+
+#class 
+	123
+	0
+	2
+	11
+	30
+	3224
+	16
+	17
+	18
+
+#class 
+	124
+	0
+	2
+	11
+	30
+	3224
+	16
+	17
+	18
+
+#class 
+	125
+	1
+	2
+	11
+	30
+	6427
+	16
+
+#class 
+	126
+	1
+	2
+	11
+	30
+	6427
+	17
+
+#class 
+	127
+	1
+	2
+	11
+	30
+	6427
+	18
+
+#class 
+	128
+	0
+	2
+	31
+	31
+	3223
+	16
+	17
+	18
+
+#class 
+	129
+	0
+	2
+	31
+	31
+	3221
+	16
+	17
+	18
+
+#class 
+	130
+	1
+	2
+	31
+	31
+	7322
+	16
+
+#class 
+	131
+	1
+	2
+	31
+	31
+	7322
+	17
+
+#class 
+	132
+	1
+	2
+	31
+	31
+	7322
+	18
+
+#class
+	133
+	0
+	2
+	32
+	32
+	3224
+	16
+	17
+	18
+
+#class
+	134
+	0
+	2
+	32
+	32
+	3221
+	16
+	17
+	18
+
+#class 
+	135
+	1
+	2
+	32
+	32
+	3132
+	16
+
+#class 
+	136
+	1
+	2
+	32
+	32
+	3132
+	17
+
+#class 
+	137
+	1
+	2
+	32
+	32
+	3132
+	18
+
+#class 
+	138
+	0
+	2
+	33
+	33
+	3303
+	19
+	20
+
+#class 
+	139
+	0
+	2
+	33
+	33
+	3303
+	19
+	20
+
+#class 
+	140
+	0
+	2
+	33
+	33
+	3303
+	19
+	20
+
+#class 
+	141
+	0
+	2
+	34
+	34
+	3303
+	19
+	20
+
+#class 
+	142
+	0
+	2
+	34
+	34
+	3303
+	19
+	20
+
+#class 
+	143
+	1
+	2
+	34
+	34
+	6112
+	19
+
+#class 
+	144
+	1
+	2
+	34
+	34
+	6112
+	20
+
+#class 
+	145
+	0
+	2
+	35
+	35
+	3303
+	19
+	20
+
+#class 
+	146
+	0
+	2
+	35
+	35
+	3303
+	19
+	20
+
+#class 
+	147
+	1
+	2
+	35
+	35
+	6307
+	19
+	
+#class 
+	148
+	1
+	2
+	35
+	35
+	6307
+	20
+
+#class 
+	149
+	0
+	2
+	36
+	36
+	3303
+	19
+	20
+
+#class 
+	150
+	1
+	2
+	36
+	36
+	6327
+	20
+
+#class 
+	151
+	1
+	2
+	36
+	36
+	6327
+	19
+
+#class
+	152
+	0
+	2
+	37
+	37
+	1
+	13
+	14
+ 	15
+	16
+	17
+	18
+	19
+	20
+
+#class
+	153
+	0
+	2
+	37
+	37
+	3221
+	16
+	17
+	18
+	
+#class
+	154
+	0
+	2
+	37
+	37
+	3316
+	19
+	20
+
+#class
+	155
+	0
+	2
+	37
+	37
+	3221
+	15
+
+#class 
+	156
+	0
+	2
+	37
+	37
+	3302
+	13
+	14
+
+ #endandend

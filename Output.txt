@@ -1,0 +1,14 @@
+
+Time Table for group: 15
+****************************************************************************************************************************************************************
+        	MONDAY                      	TUESDAY                           	 WEDNESDAY                         	THURSDAY                         	FRIDAY
+9.00 /     TransPh2 DrSaliyeva 3309    |/     TransPh2 DrSaliyeva 3309    |/     TransPh2 DrSaliyeva 3217    |/     SepProc1 DrInglezakis 3309    |/     SepProc1 DrInglezakis 3317    |
+10.00 /     TransPh2 DrSaliyeva 3309    |/     TransPh2 DrSaliyeva 3309    |/     TransPh2 DrSaliyeva 3217    |/     SepProc1 DrInglezakis 3309    |/     SepProc1 DrInglezakis 3317    |
+11.00 /     SepProc1 DrInglezakis 3217    |/     ResearPr DrRuales 3309    |/     ChReaEng DrKalimuldina 6154    |/     ResearPr DrRuales 3309    |/     ChReaEng DrKalimuldina 3309    |
+12.00 /     SepProc1 DrInglezakis 3217    |/     ResearPr DrRuales 3309    |/     ChReaEng DrKalimuldina 6154    |/     ResearPr DrRuales 3309    |/     ChReaEng DrKalimuldina 3309    |
+13.00 /                                 |/                                 |/                                 |/                                 |/                                 |
+14.00 /     SepProc1 DrInglezakis 6154    |/     ChReaEng DrKalimuldina 3309    |/     ChReaEng DrKalimuldina 3217    |/     ProjManag DrTokbolat 3221    |/                                 |
+15.00 /     SepProc1 DrInglezakis 6154    |/     ChReaEng DrKalimuldina 3309    |/     ChReaEng DrKalimuldina 3217    |/     ProjManag DrTokbolat 3221    |/                                 |
+16.00 /     SepProc1 DrInglezakis 6154    |/     ProjManag DrTokbolat 1    |/                                 |/                                 |/                                 |
+17.00 /     SepProc1 DrInglezakis 6154    |/     ProjManag DrTokbolat 1    |/                                 |/                                 |/                                 |
+18.00 /                                 |/                                 |/                                 |/                                 |/                                 |

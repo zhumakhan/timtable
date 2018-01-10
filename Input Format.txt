@@ -1,0 +1,30 @@
+#auditory
+	 1   //id
+	 400 //size
+	 0   //1 if auditory is lab, otherwise 0;
+
+#group
+	2   //id
+	45 //number of students in group
+
+#course 
+	 1 //id
+	Programming //name of course
+
+#staff
+	3 //id
+	DrAsma //name
+
+ #class
+	1  //id
+	0  //1 if class is lab, otherwise 0;
+	 2 //duration of class in hours
+	 1 //staff's id, who conducts this class
+	 1 // id of course 
+	1 //id of auditory
+	1 //id of groups which attends
+	2 //id of groups which attends
+	3 //id of groups which attends
+	4 //id of groups which attends
+	5 //id of groups which attends
+	.................
